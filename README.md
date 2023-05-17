@@ -1,31 +1,49 @@
+<h2 align="left">Hi 👋! My name is Hasan Ujjaman and I'm a MERN Stack Developer from Bangaldesh</h2>
 
-### Hi there 👋, my name is Hasan Ujjaman
-#### MERN Stack Developer
+###
 
+<br clear="both">
 
-I am Hasan Ujjaman, I am a  talented front-end developer with a passion for creating visually stunning and interactive user interfaces. With 1 year of experience, I excels in HTML, CSS, and JavaScript, and has a strong eye for design. I am dedicated to delivering seamless user experiences and thrives in collaborative environments.
+<img align="right" height="203" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47gn81cttv20pbnnbc48eo002xjse97zmxdi5tf2dw&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-Skills:EXPRESS JS/ MONGODB/ FIREBASE/ REACT / JS / HTML / CSS
+###
 
-- 🔭 I’m currently working on MERN Projects 
-- 👯 I’m looking to collaborate on Github 
-- 📫 How to reach me: Linkedin 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" width="42" alt="chrome logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+</div>
 
+###
 
+<div align="left">
+  <a href="Hasan Ujjaman Jibon#4234" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/hasanujjamanjibon.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="hasanujjamanjibon.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/hasan-ujjaman-jibon/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCrJl7GUSl5j25OAxFb9Mj_A" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HasanUjjamanJibon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasan-ujjaman-jibon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hasanujjamanjibon.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hasanujjamandev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/rJl7GUSl5j25OAxFb9Mj_A)  
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanUjjamanJibon&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HasanUjjamanJibon&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HasanUjjamanJibon)  
-
-![GitHub metrics](https://metrics.lecoq.io/HasanUjjamanJibon)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=HasanUjjamanJibon&show_icons=true&theme=dracula)  
-
-![Profile views](https://gpvc.arturio.dev/HasanUjjamanJibon)  
+###
