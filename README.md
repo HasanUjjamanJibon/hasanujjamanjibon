@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hasan Ujjaman and I'm a MERN Stack Developer from Bangaldesh</h2>
+<h2 align="left">Hi 👋! My name is Hasan Ujjaman and I'm a React JS Developer from Bangaldesh</h2>
 
 ###
 
